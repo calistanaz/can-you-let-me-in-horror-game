@@ -1,2 +1,3 @@
-# cylmi-horror-game
-Can you let me in?
+# Can you let me in?
+This is a 2D-3D horror suspense thriller game.
+
